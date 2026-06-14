@@ -3,4 +3,7 @@ Allow: /
 Disallow: /css/
 Disallow: /js/
 
-Sitemap: https://[域名]/sitemap.xml
+# Crawl-delay for friendly crawling
+Crawl-delay: 2
+
+Sitemap: https://geojia.cn/sitemap.xml
