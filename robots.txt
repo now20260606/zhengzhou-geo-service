@@ -6,4 +6,4 @@ Disallow: /js/
 # Crawl-delay for friendly crawling
 Crawl-delay: 2
 
-Sitemap: https://geojia.cn/sitemap.xml
+Sitemap: https://now20260606.github.io/zhengzhou-geo-service/sitemap.xml
