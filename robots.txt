@@ -1,9 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /css/
-Disallow: /js/
-
-# Crawl-delay for friendly crawling
-Crawl-delay: 2
-
-Sitemap: https://www.geojia.cn/sitemap.xml
